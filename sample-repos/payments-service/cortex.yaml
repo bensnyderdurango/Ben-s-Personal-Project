@@ -9,11 +9,11 @@ info:
     - python
   x-cortex-git:
     github:
-      repository: bensnyderdurango/payments-service
+      repository: bensnyderdurango1/payments-service
   x-cortex-link:
     - name: README
       type: documentation
-      url: https://github.com/bensnyderdurango/payments-service#readme
+      url: https://github.com/bensnyderdurango1/payments-service#readme
   # Uncomment and set an owner once teams/users exist in Cortex:
   # x-cortex-owners:
   #   - type: email

@@ -9,11 +9,11 @@ info:
     - nodejs
   x-cortex-git:
     github:
-      repository: bensnyderdurango/user-service
+      repository: bensnyderdurango1/user-service
   x-cortex-link:
     - name: README
       type: documentation
-      url: https://github.com/bensnyderdurango/user-service#readme
+      url: https://github.com/bensnyderdurango1/user-service#readme
   # Uncomment and set an owner once teams/users exist in Cortex:
   # x-cortex-owners:
   #   - type: email

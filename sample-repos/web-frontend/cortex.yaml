@@ -9,11 +9,11 @@ info:
     - javascript
   x-cortex-git:
     github:
-      repository: bensnyderdurango/web-frontend
+      repository: bensnyderdurango1/web-frontend
   x-cortex-link:
     - name: README
       type: documentation
-      url: https://github.com/bensnyderdurango/web-frontend#readme
+      url: https://github.com/bensnyderdurango1/web-frontend#readme
   x-cortex-dependency:
     - tag: user-service
     - tag: payments-service
