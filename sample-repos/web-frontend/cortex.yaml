@@ -1,0 +1,23 @@
+openapi: 3.0.1
+info:
+  title: Web Frontend
+  description: Customer-facing storefront UI.
+  x-cortex-tag: web-frontend
+  x-cortex-type: service
+  x-cortex-groups:
+    - demo
+    - javascript
+  x-cortex-git:
+    github:
+      repository: bensnyderdurango/web-frontend
+  x-cortex-link:
+    - name: README
+      type: documentation
+      url: https://github.com/bensnyderdurango/web-frontend#readme
+  x-cortex-dependency:
+    - tag: user-service
+    - tag: payments-service
+  # Uncomment and set an owner once teams/users exist in Cortex:
+  # x-cortex-owners:
+  #   - type: email
+  #     email: you@example.com

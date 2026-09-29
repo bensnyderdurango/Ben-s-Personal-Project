@@ -1,0 +1,20 @@
+openapi: 3.0.1
+info:
+  title: Payments Service
+  description: Creates and tracks customer payments.
+  x-cortex-tag: payments-service
+  x-cortex-type: service
+  x-cortex-groups:
+    - demo
+    - python
+  x-cortex-git:
+    github:
+      repository: bensnyderdurango/payments-service
+  x-cortex-link:
+    - name: README
+      type: documentation
+      url: https://github.com/bensnyderdurango/payments-service#readme
+  # Uncomment and set an owner once teams/users exist in Cortex:
+  # x-cortex-owners:
+  #   - type: email
+  #     email: you@example.com

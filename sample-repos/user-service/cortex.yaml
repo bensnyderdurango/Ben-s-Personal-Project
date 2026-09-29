@@ -1,0 +1,20 @@
+openapi: 3.0.1
+info:
+  title: User Service
+  description: Manages user profiles and accounts.
+  x-cortex-tag: user-service
+  x-cortex-type: service
+  x-cortex-groups:
+    - demo
+    - nodejs
+  x-cortex-git:
+    github:
+      repository: bensnyderdurango/user-service
+  x-cortex-link:
+    - name: README
+      type: documentation
+      url: https://github.com/bensnyderdurango/user-service#readme
+  # Uncomment and set an owner once teams/users exist in Cortex:
+  # x-cortex-owners:
+  #   - type: email
+  #     email: you@example.com
